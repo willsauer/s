@@ -1,1 +1,1 @@
-
+possible_activities = []
